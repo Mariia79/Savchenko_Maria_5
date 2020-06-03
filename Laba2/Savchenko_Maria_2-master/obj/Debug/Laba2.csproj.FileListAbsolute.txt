@@ -1,0 +1,7 @@
+D:\MariaLabs\Laba2\Savchenko_Maria_2-master\bin\Debug\Laba2.exe.config
+D:\MariaLabs\Laba2\Savchenko_Maria_2-master\bin\Debug\Laba2.exe
+D:\MariaLabs\Laba2\Savchenko_Maria_2-master\bin\Debug\Laba2.pdb
+D:\MariaLabs\Laba2\Savchenko_Maria_2-master\obj\Debug\Laba2.csprojAssemblyReference.cache
+D:\MariaLabs\Laba2\Savchenko_Maria_2-master\obj\Debug\Laba2.csproj.CoreCompileInputs.cache
+D:\MariaLabs\Laba2\Savchenko_Maria_2-master\obj\Debug\Laba2.exe
+D:\MariaLabs\Laba2\Savchenko_Maria_2-master\obj\Debug\Laba2.pdb

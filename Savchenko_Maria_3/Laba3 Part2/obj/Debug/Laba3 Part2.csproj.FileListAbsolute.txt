@@ -1,0 +1,10 @@
+D:\MariaLabs\Savchenko_Maria_3\Laba3 Part2\bin\Debug\Laba3 Part2.exe.config
+D:\MariaLabs\Savchenko_Maria_3\Laba3 Part2\bin\Debug\Laba3 Part2.exe
+D:\MariaLabs\Savchenko_Maria_3\Laba3 Part2\bin\Debug\Laba3 Part2.pdb
+D:\MariaLabs\Savchenko_Maria_3\Laba3 Part2\obj\Debug\Laba3 Part2.csprojAssemblyReference.cache
+D:\MariaLabs\Savchenko_Maria_3\Laba3 Part2\obj\Debug\Laba3 Part2.csproj.CoreCompileInputs.cache
+D:\MariaLabs\Savchenko_Maria_3\Laba3 Part2\obj\Debug\Laba3 Part2.exe
+D:\MariaLabs\Savchenko_Maria_3\Laba3 Part2\obj\Debug\Laba3 Part2.pdb
+D:\MariaLabs\Savchenko_Maria_3\Laba3 Part2\bin\Debug\Newtonsoft.Json.dll
+D:\MariaLabs\Savchenko_Maria_3\Laba3 Part2\bin\Debug\Newtonsoft.Json.xml
+D:\MariaLabs\Savchenko_Maria_3\Laba3 Part2\obj\Debug\Laba3 Part2.csproj.CopyComplete
